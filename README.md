@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jovanhsu-mcp-neo4j-memory-server-badge.png)](https://mseep.ai/app/jovanhsu-mcp-neo4j-memory-server)
+
 # MCP Neo4j Knowledge Graph Memory Server
 
 [![npm version](https://img.shields.io/npm/v/@izumisy/mcp-neo4j-memory-server.svg)](https://www.npmjs.com/package/@izumisy/mcp-neo4j-memory-server)
